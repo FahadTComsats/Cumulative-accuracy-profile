@@ -6,12 +6,6 @@ Created on Mon Feb  4 20:12:33 2019
 @author: fahadtariq
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 23 12:57:16 2018
-
-@author: Hilak
-"""
 # Importing the libraries
 import numpy as np
 import pandas as pd
